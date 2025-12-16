@@ -1,0 +1,78 @@
+/* Modified Bexon Icons to use Font Awesome */
+[class^="tji-"],
+[class*=" tji-"] {
+	font-family: "Font Awesome 6 Pro", "Font Awesome 6 Free" !important;
+	speak: never;
+	font-style: normal;
+	font-weight: 900;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.tji-arrow-right-long:before { content: "\f061"; } /* fa-arrow-right */
+.tji-arrow-left-long:before { content: "\f060"; } /* fa-arrow-left */
+.tji-arrow-up-long:before { content: "\f062"; } /* fa-arrow-up */
+.tji-arrow-down-long:before { content: "\f063"; } /* fa-arrow-down */
+.tji-arrow-right:before { content: "\f061"; } /* fa-arrow-right */
+.tji-arrow-left:before { content: "\f060"; } /* fa-arrow-left */
+.tji-arrow-up:before { content: "\f062"; } /* fa-arrow-up */
+.tji-arrow-down:before { content: "\f107"; } /* fa-angle-down */
+.tji-arrow-right-big:before { content: "\f061"; } /* fa-arrow-right */
+.tji-arrow-down-big:before { content: "\f063"; } /* fa-arrow-down */
+.tji-box:before { content: "\f1b2"; } /* fa-cube */
+.tji-innovative:before { content: "\f0eb"; } /* fa-lightbulb */
+.tji-award:before { content: "\f559"; } /* fa-award */
+.tji-team:before { content: "\f0c0"; } /* fa-users */
+.tji-support:before { content: "\f3c1"; } /* fa-headset */
+.tji-service-1:before { content: "\f201"; } /* fa-chart-line */
+.tji-service-2:before { content: "\f0c0"; } /* fa-users */
+.tji-service-3:before { content: "\f06c"; } /* fa-leaf */
+.tji-service-4:before { content: "\f19d"; } /* fa-graduation-cap */
+.tji-service-5:before { content: "\f5fc"; } /* fa-laptop-code */
+.tji-service-6:before { content: "\f0a1"; } /* fa-bullhorn */
+.tji-search:before { content: "\f002"; } /* fa-search */
+.tji-phone:before { content: "\f095"; } /* fa-phone */
+.tji-phone-2:before { content: "\f095"; } /* fa-phone */
+.tji-phone-3:before { content: "\f095"; } /* fa-phone */
+.tji-envelop:before { content: "\f0e0"; } /* fa-envelope */
+.tji-envelop-2:before { content: "\f0e0"; } /* fa-envelope */
+.tji-plane:before { content: "\f1d8"; } /* fa-paper-plane */
+.tji-clock:before { content: "\f017"; } /* fa-clock */
+.tji-plus:before { content: "\f067"; } /* fa-plus */
+.tji-minus:before { content: "\f068"; } /* fa-minus */
+.tji-play:before { content: "\f04b"; } /* fa-play */
+.tji-check:before { content: "\f00c"; } /* fa-check */
+.tji-location:before { content: "\f3c5"; } /* fa-map-marker-alt */
+.tji-location-2:before { content: "\f3c5"; } /* fa-map-marker-alt */
+.tji-location-3:before { content: "\f3c5"; } /* fa-map-marker-alt */
+.tji-user:before { content: "\f007"; } /* fa-user */
+.tji-home:before { content: "\f015"; } /* fa-home */
+.tji-at:before { content: "\f1fa"; } /* fa-at */
+.tji-calendar:before { content: "\f073"; } /* fa-calendar */
+.tji-comment:before { content: "\f075"; } /* fa-comment */
+.tji-chat:before { content: "\f086"; } /* fa-comments */
+.tji-chart:before { content: "\f080"; } /* fa-chart-bar */
+.tji-star:before { content: "\f005"; } /* fa-star */
+.tji-star-2:before { content: "\f005"; } /* fa-star */
+.tji-quote:before { content: "\f10d"; } /* fa-quote-left */
+.tji-list:before { content: "\f03a"; } /* fa-list */
+.tji-window:before { content: "\f2d0"; } /* fa-window-maximize */
+.tji-budget:before { content: "\f3d1"; } /* fa-money-bill-wave */
+.tji-complete:before { content: "\f058"; } /* fa-check-circle */
+.tji-worldwide:before { content: "\f0ac"; } /* fa-globe */
+.tji-growth:before { content: "\f201"; } /* fa-chart-line */
+.tji-dart-board:before { content: "\f140"; } /* fa-bullseye */
+.tji-eye-box:before { content: "\f06e"; } /* fa-eye */
+.tji-add-cart:before { content: "\f217"; } /* fa-cart-plus */
+.tji-curve-arrow:before { content: "\f0e2"; } /* fa-undo */
+.tji-w-dot:before { content: "\f111"; } /* fa-circle */
+.tji-manage:before { content: "\f0ae"; } /* fa-tasks */
+.tji-operations:before { content: "\f013"; } /* fa-cog */
+.tji-organize:before { content: "\f0db"; } /* fa-sitemap */
+.tji-performance:before { content: "\f3fd"; } /* fa-tachometer-alt */
+.tji-process-1:before { content: "\f110"; } /* fa-spinner */
+.tji-strategy:before { content: "\f0e8"; } /* fa-chess */
+.tji-excellence:before { content: "\f521"; } /* fa-trophy */
